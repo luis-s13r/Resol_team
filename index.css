@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+/*
+Generando conflictos jeje
+OJO: Este comentario se debe quedar como parte del repo
+*/
+=======
 /* index.css MONOLÍTICO para el reto */
 /* BUG #4: esta regla sobreescribe el color correcto del h1 definido más abajo */
 h1 { color: purple; }
@@ -873,3 +879,4 @@ a:hover { opacity: 0.8; }
   .team__grid { grid-template-columns: 1fr; }
 }
 >>>>>>> navbar-fix
+>>>>>>> main
